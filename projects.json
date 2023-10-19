@@ -1,0 +1,30 @@
+[
+    {
+    
+        "name":" Pokemon Wiki" ,
+        "live": "https://pokemonz-wiki-app.netlify.app/" ,
+        "git": "https://github.com/DwayneJ99/The-Pokemon-Wiki-App",
+        "image": ""
+    
+        },
+    
+        {
+    
+            "name":"Quotes App" ,
+            "live": "https://gastudentchatbox.herokuapp.com/quotes" ,
+            "git": "https://github.com/DwayneJ99/GaStudentChatBox",
+            "image": ""
+        
+            },
+    
+        {
+    
+            "name":"Melomania" ,
+            "live": "https://melomania-adh.netlify.app/" ,
+            "git": "https://github.com/HuongVu11/Melomania-FrontEnd",
+            "image": ""
+        
+            } 
+    
+    ]
+    
